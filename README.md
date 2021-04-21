@@ -1,0 +1,2 @@
+# checkrepo
+To understand git
